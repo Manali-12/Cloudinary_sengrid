@@ -1,0 +1,14 @@
+.uploadButton {
+  color: #ffffff;
+  background-color: #fb929e;
+  background-image: none;
+  border-color: white;
+  font-size: 150%;
+}
+.submitButton {
+  color: #ffffff;
+  background-color: #28527a;
+  background-image: none;
+  border-color: white;
+  font-size: 80%;
+}
